@@ -1,0 +1,9 @@
+.{
+    .name = "sdl2-prebuilt-x86_64-windows-gnu",
+    .version = "0.1.0",
+    .paths = .{
+        "build.zig.zon",
+        "bin",
+        "lib",
+    },
+}
